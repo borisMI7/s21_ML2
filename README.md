@@ -1,6 +1,7 @@
 # Проект: Реализация Линейной Регрессии с Нуля
 
 ![Python](https://img.shields.io/badge/python-3.9-blue.svg)
+![Pandas](https://img.shields.io/badge/pandas-1.3.5-blue)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0.23.1-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
